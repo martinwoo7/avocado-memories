@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyf5897716d7664-staging-234232-authRole",
+      "UnauthRoleArn": "arn:aws:iam::604420995894:role/amplify-amplifyf5897716d7664-staging-234232-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::604420995894:role/amplify-amplifyf5897716d7664-staging-234232-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyf5897716d7664-staging-234232-deployment",
+      "UnauthRoleName": "amplify-amplifyf5897716d7664-staging-234232-unauthRole",
+      "StackName": "amplify-amplifyf5897716d7664-staging-234232",
+      "StackId": "arn:aws:cloudformation:us-east-2:604420995894:stack/amplify-amplifyf5897716d7664-staging-234232/3d5f7620-3afc-11ee-ab6a-02ef6adc88cb",
+      "AmplifyAppId": "d313ryjm1fhtfp"
+    },
+    "categories": {
+      "auth": {
+        "avocadomemoriesc0d9ba54": {}
+      }
+    }
+  }
+}
